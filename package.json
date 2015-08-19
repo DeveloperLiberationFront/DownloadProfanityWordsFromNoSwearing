@@ -1,0 +1,21 @@
+{
+  "name":"DownloadProfanityWordsFromNoSwearing",
+  "version":"0.0.0-0",
+  "license": "MIT",
+  "description": "Download profanity words from noswearing.com",
+  "author": "Josh Terrell",
+  "homepage": "https://github.com/joshterrell805/DownloadProfanityWordsFromNoSwearing",
+  "repositiory":  "joshterrell805/DownloadProfanityWordsFromNoSwearing",
+  "main":"index.js",
+  "keywords": [
+    "profanity"
+  ],
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*",
+    "lodash": "*",
+    "bluebird": "*"
+  },
+  "devDependencies": {
+  }
+}
